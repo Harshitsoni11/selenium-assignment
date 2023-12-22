@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Harshit\\seleniumproject\\selenium-java-4.16.1/**/*.jar",
+        "drivers/chromedriver-win64/chromedriver-win64/**/*.jar"
+    ]
+}
